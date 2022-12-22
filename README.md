@@ -1,5 +1,5 @@
 # ArticleTopicSentimentAnalysis
-A basic sentiment analysis tool that retrieves articles from the GDELT 2.0 database and performs sentiment analysis using VADER.
+**A basic sentiment analysis tool that retrieves articles from the GDELT 2.0 database and performs sentiment analysis using VADER.**
 
 **Articles are retrieved using a near word search which finds articles containing words that occur within n words of each other. A list of key words and near words are input and a call is made for every key word and near word pair.**
 
